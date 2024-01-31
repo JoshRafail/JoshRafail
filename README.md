@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshRafail
 - 👀 I’m interested in ... Video Games
-- 🌱 I’m currently learning ... Front End Development
+- 🌱 I’m currently learning ... Fullstack Development
 - 💞️ I’m looking to collaborate on ... VR and Video Game Projects
 - 📫 How to reach me ... rhythmicVolition@gmail.com
 
